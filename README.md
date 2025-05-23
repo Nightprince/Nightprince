@@ -19,8 +19,7 @@ I am a Staff Software Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nightprince)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightprince)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nightprince&langs_count=8&hide=SCSS,C%23)
 
 ---
 
@@ -54,7 +53,7 @@ I am a Staff Software Engineer <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="Codeigniter" alt="Codeigniter" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" alt="Laravel" width="40" height="40"/>
 </div>
 
 
@@ -72,4 +71,4 @@ I am a Staff Software Engineer <img src="https://media.giphy.com/media/WUlplcMpO
 ### :floppy_disk: Databases:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite"  alt="SQLite" width="60" height="60"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/1338505?s=48&v=4" title="HeidiSQL"  alt="SQLite" width="60" height="60"/>&nbsp;
